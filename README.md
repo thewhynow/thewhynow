@@ -1,8 +1,10 @@
-A high schcool student interested in the inner workings of the extremely powerful devices we use today. 
+A high schcool student interested in stuff idk
 
-Interests: CompSci, Electrical Engineering, Low - Level CompSci, and Redstone Computer Engineering
+Interests: CompSci, Electrical Engineering, Low - Level Computing, and Redstone Computer Engineering
 
 How to reach me: you wont need to
+
+Best Comp-Sci related project as of Aug 24 '24: Language Interpreter written in python (currently being rewritten in c++)
 
 Fav Language: Python
 
