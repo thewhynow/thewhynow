@@ -4,9 +4,9 @@ Interests: CompSci, Electrical Engineering, Low - Level Computing, and Redstone 
 
 How to reach me: you wont need to
 
-Best Comp-Sci related project as of Aug 24 '24: Language Interpreter written in python (currently being rewritten in c++)
+Best Comp-Sci related project as of Sep 15 '24: 3d renderer API that uses the terminal written in C++
 
-Fav Language: Python
+Fav Language: C++
 
 Fun Fact: I am lactose intolerant
 
