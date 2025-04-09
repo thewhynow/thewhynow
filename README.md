@@ -1,12 +1,12 @@
-A high schcool student interested in stuff idk
+A high schcool student interested in CS
 
-Interests: CompSci, Electrical Engineering, Low - Level Computing, and Redstone Computer Engineering
+Interests: CompSci, Electrical Engineering, Low - Level Computing, and Redstone Computer Engineering, Systems, Graphics
 
-How to reach me: you wont need to
+How to reach me: my YT
 
 Best Comp-Sci related project as of Sep 15 '24: 3d renderer API that uses the terminal written in C++
 
-Fav Language: C++
+Favorite Language: C++
 
 Fun Fact: I am lactose intolerant
 
