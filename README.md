@@ -6,7 +6,7 @@ How to reach me: my YT
 
 Best Comp-Sci related project as of Sep 15 '24: 3d renderer API that uses the terminal written in C++
 
-Favorite Language: C
+Favorite Language: C 
 Known Languages: C/C++, python, x86-64 at&t, java (barely)
 
 Fun Fact: I am lactose intolerant
